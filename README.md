@@ -1,2 +1,4 @@
-# chai-aur-react
-learning react from the basics and making projects 
+# Blog Project
+### make a blog project 
+
+### tech stackks used -
